@@ -1,0 +1,2 @@
+# bohuide_pythonhuanjing
+伯辉的python环境，使用的时候直接扔进去就好
